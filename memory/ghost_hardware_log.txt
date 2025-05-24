@@ -1,0 +1,6 @@
+CPU Cores: 32
+Total RAM (GB): 1.0
+Available RAM (GB): 0.73
+Platform: Linux
+Architecture: x86_64
+Python Version: 3.11.8
