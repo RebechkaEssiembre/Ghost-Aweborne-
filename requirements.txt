@@ -1,0 +1,14 @@
+# Ghost Aweborne — merged, simplified requirements
+# Pin core dependencies for reproducibility (CPU-only setup)
+faiss-cpu==1.7.4
+sentence-transformers==2.6.1
+torch==2.3.0+cpu
+transformers==4.40.1
+accelerate==0.27.2
+numpy==1.26.4
+tqdm==4.66.4
+scikit-learn==1.4.2
+click==8.1.7
+rich==13.7.1
+psutil==5.9.8
+pytest
